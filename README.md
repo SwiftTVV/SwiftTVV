@@ -34,7 +34,12 @@
 
 ---
 
-https://youtu.be/n6d4KHSKqGk?t=145 - Watch Video
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SwiftTVV's GitHub Stats" src="https://github-readme-stats-swifttvv.vercel.app/api?username=SwiftTVV&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
